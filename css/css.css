@@ -68,6 +68,23 @@ body {
         margin-bottom: 20px;
         font-size: 110%;
     }
+
+    .estudios {
+        margin-left: 1%;
+        margin-right: 1%; 
+        
+    }
+    table 			      { 
+        border-spacing: 5px; 
+    
+        background:white;
+        border-radius:6px;
+        overflow:hidden;
+        max-width:800px; 
+        width:100%;
+        margin:0 auto;
+        position:relative;
+    }
 }
 
 footer {
