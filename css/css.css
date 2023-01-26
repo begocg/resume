@@ -36,7 +36,6 @@ nav a {
 nav a:hover {
     text-decoration: none;
     color: #7F5792;
-    font-weight: bolder;
 }
 
 .me {
@@ -128,3 +127,37 @@ footer p {
 main {
     margin: 1.5rem;
 }
+
+.estudios {
+    margin-left: 8%;
+    margin-right: 8%; 
+    
+}
+
+.estudios img {
+    width: 200px; 
+}
+
+table 			      { 
+    border-spacing: 1; 
+    border-collapse: collapse; 
+    background:white;
+    border-radius:6px;
+    overflow:hidden;
+    max-width:800px; 
+    width:100%;
+    margin:0 auto;
+    position:relative;
+}
+    
+    td,th           { padding-left:30px}
+
+    a {
+        text-decoration: none;
+        color:#7F5792
+    }
+
+    a:hover {
+        text-decoration: none;
+    }
+  
