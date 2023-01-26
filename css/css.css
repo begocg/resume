@@ -139,8 +139,8 @@ main {
 }
 
 table 			      { 
-    border-spacing: 1; 
-    border-collapse: collapse; 
+    border-spacing: 15px; 
+
     background:white;
     border-radius:6px;
     overflow:hidden;
